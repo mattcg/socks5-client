@@ -2,7 +2,7 @@
 
 SOCKS v5 client socket implementation in JavaScript for Node.js.
 
-Original code forked from (node-socksified](https://github.com/vially/node-socksified).
+Original code forked from [node-socksified](https://github.com/vially/node-socksified).
 
 ## Usage ##
 

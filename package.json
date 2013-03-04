@@ -24,7 +24,8 @@
 		}
 	],
 	"dependencies": {
-		"ipv6": "2.x"
+		"ipv6": "2.x",
+		"network-byte-order": "0.x"
 	},
 	"engines": {
 		"node": "0.x"

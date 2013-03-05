@@ -6,7 +6,7 @@ Original code forked from [node-socksified](https://github.com/vially/node-socks
 
 ## Usage ##
 
-Look at [socks5-http-client](https://github.com/mattcg/socks5-http-client) for an example.
+Look at [socks5-http-client](https://github.com/mattcg/socks5-http-client) or [socks5-https-client](https://github.com/mattcg/socks5-https-client) for an example.
 
 ## License ##
 

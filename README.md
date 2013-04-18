@@ -10,6 +10,6 @@ Look at [socks5-http-client](https://github.com/mattcg/socks5-http-client) or [s
 
 ## License ##
 
-Copyright © 2012 [Matthew Caruana Galizia](http://twitter.com/mcaruanagalizia), licensed under the MIT license (see LICENSE).
+Copyright © 2012 [Matthew Caruana Galizia](http://twitter.com/mcaruanagalizia), licensed under an [MIT license](http://mattcg.mit-license.org/).
 
-Portions of this code are copyright (c) 2011 Valentin Háloiu, redistributed and modified under the MIT license.
+Portions of this code are copyright (c) 2011 Valentin Háloiu, redistributed and modified under an [MIT license](https://github.com/vially/node-socksified/blob/master/LICENSE).

@@ -1,7 +1,7 @@
 {
 	"name": "socks5-client",
 	"description": "SOCKS v5 client socket implementation.",
-	"version": "0.3.3",
+	"version": "0.3.4",
 	"main": "lib/socket.js",
 	"homepage": "https://github.com/mattcg/socks5-client",
 	"implements": ["CommonJS/Modules/1.0"],
@@ -17,12 +17,10 @@
 	"bugs": {
 		"url": "https://github.com/mattcg/socks5-client/issues"
 	},
-	"repositories": [
-		{
-			"type": "git",
-			"url": "https://github.com/mattcg/socks5-client.git"
-		}
-	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mattcg/socks5-client.git"
+	},
 	"dependencies": {
 		"ipv6": "2.x",
 		"network-byte-order": "0.x"

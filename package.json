@@ -1,7 +1,7 @@
 {
 	"name": "socks5-client",
 	"description": "SOCKS v5 client socket implementation.",
-	"version": "0.3.4",
+	"version": "0.3.5",
 	"main": "lib/socket.js",
 	"homepage": "https://github.com/mattcg/socks5-client",
 	"implements": ["CommonJS/Modules/1.0"],
@@ -9,6 +9,10 @@
 		{
 			"name": "Matthew Caruana Galizia",
 			"email": "m@m.cg"
+		},
+		{
+			"name": "Gordon Hall",
+			"email": "gordon@gordonwritescode.com"
 		}
 	],
 	"keywords": [

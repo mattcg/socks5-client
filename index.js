@@ -2,7 +2,9 @@
 
 /*jshint node:true*/
 
-var Socks5ClientSocket = require('./lib/Socks5ClientSocket');
+var Socket = require('./lib/Socket');
+
+exports.Socket = Socket;
 
 exports.createConnection = function(options) {
 	var socksSocket, socksHost, socksPort;
@@ -10,7 +12,7 @@ exports.createConnection = function(options) {
 	socksHost = options.socksHost || 'localhost';
 	socksPort = options.socksPort || 1080;
 
-	socksSocket = new Socks5ClientSocket(socksHost, socksPort);
+	socksSocket = new Socket(socksHost, socksPort);
 
 	return socksSocket.connect(options.port, options.host);
 };

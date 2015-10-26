@@ -1,7 +1,7 @@
 {
 	"name": "socks5-client",
 	"description": "SOCKS v5 client socket implementation.",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"main": "index.js",
 	"homepage": "https://github.com/mattcg/socks5-client",
 	"implements": ["CommonJS/Modules/1.0"],
